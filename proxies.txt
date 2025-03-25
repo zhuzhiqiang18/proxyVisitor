@@ -1,0 +1,3 @@
+# 格式: 代理地址 端口 用户名 密码
+# 示例:
+# proxy.example.com 1080 username password

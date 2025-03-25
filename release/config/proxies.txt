@@ -1,0 +1,3 @@
+# 代理服务器配置
+proxy1.example.com 1080 user1 pass1
+proxy2.example.com 1080 user2 pass2

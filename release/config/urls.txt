@@ -1,0 +1,3 @@
+# 目标网址列表
+https://example.com
+https://example.org
